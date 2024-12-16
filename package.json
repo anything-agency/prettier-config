@@ -1,0 +1,19 @@
+{
+  "name": "@anything-agency/prettier-config",
+  "version": "24.12.0",
+  "description": "Anything Prettier config",
+  "type": "module",
+  "exports": "./index.js",
+  "license": "MIT",
+  "keywords": [
+    "prettier",
+    "prettier-config"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "prettier": "@anything-agency/prettier-config",
+  "peerDependencies": {
+    "prettier": ">=3.0.0"
+  }
+}
